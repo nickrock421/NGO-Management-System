@@ -14,6 +14,7 @@ Simple NGO Management System built with php as a Mini Project for deeper underst
 Workflow:
 
 Users:
+
 ● Users can visit the site without login and see the functionality like what we are and what we do.
 ● Users can donate the money and can raise the issue related to their problem which the NGO can solve.
 
